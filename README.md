@@ -1,5 +1,3 @@
-# AppCalculadora
-CalculadoraEmJavaScript
 <html>
 
 <head>
